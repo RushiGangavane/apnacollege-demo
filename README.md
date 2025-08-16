@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first personal git Repository
 <br>
-Author - Rushikesh Jayawant Gangavane.
+Author - Rushikesh (learning Git From Apna College)
